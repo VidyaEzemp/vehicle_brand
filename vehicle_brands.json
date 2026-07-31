@@ -1,0 +1,266 @@
+[
+  {
+    "id": "maruti_suzuki",
+    "name": "Maruti Suzuki"
+  },
+  {
+    "id": "hyundai",
+    "name": "Hyundai"
+  },
+  {
+    "id": "tata_motors",
+    "name": "Tata Motors"
+  },
+  {
+    "id": "mahindra",
+    "name": "Mahindra"
+  },
+  {
+    "id": "toyota",
+    "name": "Toyota"
+  },
+  {
+    "id": "kia",
+    "name": "Kia"
+  },
+  {
+    "id": "honda",
+    "name": "Honda"
+  },
+  {
+    "id": "mg_motor",
+    "name": "MG Motor"
+  },
+  {
+    "id": "renault",
+    "name": "Renault"
+  },
+  {
+    "id": "nissan",
+    "name": "Nissan"
+  },
+  {
+    "id": "skoda",
+    "name": "Skoda"
+  },
+  {
+    "id": "volkswagen",
+    "name": "Volkswagen"
+  },
+  {
+    "id": "citroen",
+    "name": "Citroen"
+  },
+  {
+    "id": "jeep",
+    "name": "Jeep"
+  },
+  {
+    "id": "force_motors",
+    "name": "Force Motors"
+  },
+  {
+    "id": "isuzu",
+    "name": "Isuzu"
+  },
+  {
+    "id": "byd",
+    "name": "BYD"
+  },
+  {
+    "id": "vinfast",
+    "name": "VinFast"
+  },
+  {
+    "id": "mercedes_benz",
+    "name": "Mercedes-Benz"
+  },
+  {
+    "id": "bmw",
+    "name": "BMW"
+  },
+  {
+    "id": "audi",
+    "name": "Audi"
+  },
+  {
+    "id": "volvo",
+    "name": "Volvo"
+  },
+  {
+    "id": "lexus",
+    "name": "Lexus"
+  },
+  {
+    "id": "jaguar",
+    "name": "Jaguar"
+  },
+  {
+    "id": "land_rover",
+    "name": "Land Rover"
+  },
+  {
+    "id": "mini",
+    "name": "MINI"
+  },
+  {
+    "id": "porsche",
+    "name": "Porsche"
+  },
+  {
+    "id": "ferrari",
+    "name": "Ferrari"
+  },
+  {
+    "id": "lamborghini",
+    "name": "Lamborghini"
+  },
+  {
+    "id": "rolls_royce",
+    "name": "Rolls-Royce"
+  },
+  {
+    "id": "bentley",
+    "name": "Bentley"
+  },
+  {
+    "id": "aston_martin",
+    "name": "Aston Martin"
+  },
+  {
+    "id": "maserati",
+    "name": "Maserati"
+  },
+  {
+    "id": "mclaren",
+    "name": "McLaren"
+  },
+  {
+    "id": "hero",
+    "name": "Hero MotoCorp"
+  },
+  {
+    "id": "tvs",
+    "name": "TVS Motor"
+  },
+  {
+    "id": "bajaj",
+    "name": "Bajaj Auto"
+  },
+  {
+    "id": "royal_enfield",
+    "name": "Royal Enfield"
+  },
+  {
+    "id": "yamaha",
+    "name": "Yamaha"
+  },
+  {
+    "id": "suzuki",
+    "name": "Suzuki Motorcycle"
+  },
+  {
+    "id": "ktm",
+    "name": "KTM"
+  },
+  {
+    "id": "husqvarna",
+    "name": "Husqvarna"
+  },
+  {
+    "id": "kawasaki",
+    "name": "Kawasaki"
+  },
+  {
+    "id": "ducati",
+    "name": "Ducati"
+  },
+  {
+    "id": "triumph",
+    "name": "Triumph"
+  },
+  {
+    "id": "harley_davidson",
+    "name": "Harley-Davidson"
+  },
+  {
+    "id": "bmw_motorrad",
+    "name": "BMW Motorrad"
+  },
+  {
+    "id": "aprilia",
+    "name": "Aprilia"
+  },
+  {
+    "id": "vespa",
+    "name": "Vespa"
+  },
+  {
+    "id": "ola",
+    "name": "Ola Electric"
+  },
+  {
+    "id": "ather",
+    "name": "Ather Energy"
+  },
+  {
+    "id": "vida",
+    "name": "Vida"
+  },
+  {
+    "id": "revolt",
+    "name": "Revolt Motors"
+  },
+  {
+    "id": "ultraviolette",
+    "name": "Ultraviolette"
+  },
+  {
+    "id": "river",
+    "name": "River"
+  },
+  {
+    "id": "simple_energy",
+    "name": "Simple Energy"
+  },
+  {
+    "id": "matter",
+    "name": "Matter"
+  },
+  {
+    "id": "oben",
+    "name": "Oben Electric"
+  },
+  {
+    "id": "piaggio",
+    "name": "Piaggio"
+  },
+  {
+    "id": "atul_auto",
+    "name": "Atul Auto"
+  },
+  {
+    "id": "omega_seiki",
+    "name": "Omega Seiki Mobility"
+  },
+  {
+    "id": "euler",
+    "name": "Euler Motors"
+  },
+  {
+    "id": "ashok_leyland",
+    "name": "Ashok Leyland"
+  },
+  {
+    "id": "eicher",
+    "name": "Eicher"
+  },
+  {
+    "id": "bharatbenz",
+    "name": "BharatBenz"
+  },
+  {
+    "id": "sml_isuzu",
+    "name": "SML Isuzu"
+  }
+]
