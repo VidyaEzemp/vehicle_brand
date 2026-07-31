@@ -1347,6 +1347,7 @@
   },
   {
     "id": "atul_auto",
+    "name"   : "Atul Auto",
     "models" : [
       {"id": "gem",           "name": "Gem"          },
       {"id": "gem_cargo",     "name": "Gem Cargo"    },
