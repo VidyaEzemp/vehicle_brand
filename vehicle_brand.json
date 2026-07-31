@@ -1435,7 +1435,7 @@
       {"id": "school_bus",    "name": "School Bus"   }
     ]
   },
-  [
+
     {
       "id": "volvo_trucks_buses",
       "name"   : "Volvo Trucks Buses",
@@ -1495,5 +1495,5 @@
         {"id": "magic",        "name": "Magic"       }
       ]
     }
-  ]
+  
 ]
