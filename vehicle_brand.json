@@ -189,10 +189,10 @@
       {"id": "sonet",            "name": "Sonet"           },
       {"id": "syros",            "name": "Syros"           },
       {"id": "seltos",           "name": "Seltos"          },
-      {"id": "4Wheelerens",           "name": "4Wheelerens"          },
-      {"id": "4Wheelerens_clavis",    "name": "4Wheelerens Clavis"   },
-      {"id": "4Wheelerens_clavis_ev", "name": "4Wheelerens Clavis EV"},
-      {"id": "4Wheelernival",         "name": "4Wheelernival"        },
+      {"id": "carens",           "name": "Carens"          },
+      {"id": "carens_clavis",    "name": "Carens Clavis"   },
+      {"id": "carens_clavis_ev", "name": "Carens Clavis EV"},
+      {"id": "carnival",         "name": "Carnival"        },
       {"id": "ev6",              "name": "EV6"             },
       {"id": "ev9",              "name": "EV9"             }
     ]
