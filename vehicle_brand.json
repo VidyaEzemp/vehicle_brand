@@ -2,6 +2,7 @@
   {
     "id": "maruti_suzuki",
     "name"   : "Maruti Suzuki",
+    "category": "4Wheeler",
     "models" : [
       {"id": "800",              "name": "800"             },
       {"id": "1000",             "name": "1000"            },
@@ -41,11 +42,12 @@
       {"id": "omni",             "name": "Omni"            },
       {"id": "kizashi",          "name": "Kizashi"         },
       {"id": "e_vitara",         "name": "e Vitara"        },
-      {"id": "super_carry",      "name": "Super Carry"     }
+      {"id": "super_4Wheelerry",      "name": "Super 4Wheelerry"     }
     ]
   },
   {
     "id": "hyundai",
+    "category": "4Wheeler",
     "name"   : "Hyundai",
     "models" : [
       {"id": "santro",         "name": "Santro"        },
@@ -81,6 +83,7 @@
   },
   {
     "id": "tata_motors",
+    "category": "4Wheeler",
     "name"   : "Tata Motors",
     "models" : [
       {"id": "indica",       "name": "Indica"      },
@@ -117,6 +120,7 @@
   },
   {
     "id": "mahindra",
+    "category": "4Wheeler",
     "name"   : "Mahindra",
     "models" : [
       {"id": "jeep",            "name": "Jeep"           },
@@ -151,6 +155,7 @@
   },
   {
     "id": "toyota",
+    "category": "4Wheeler",
     "name"   : "Toyota",
     "models" : [
       {"id": "qualis",                "name": "Qualis"               },
@@ -178,21 +183,23 @@
   },
   {
     "id": "kia",
+    "category": "4Wheeler",
     "name"   : "KIA",
     "models" : [
       {"id": "sonet",            "name": "Sonet"           },
       {"id": "syros",            "name": "Syros"           },
       {"id": "seltos",           "name": "Seltos"          },
-      {"id": "carens",           "name": "Carens"          },
-      {"id": "carens_clavis",    "name": "Carens Clavis"   },
-      {"id": "carens_clavis_ev", "name": "Carens Clavis EV"},
-      {"id": "carnival",         "name": "Carnival"        },
+      {"id": "4Wheelerens",           "name": "4Wheelerens"          },
+      {"id": "4Wheelerens_clavis",    "name": "4Wheelerens Clavis"   },
+      {"id": "4Wheelerens_clavis_ev", "name": "4Wheelerens Clavis EV"},
+      {"id": "4Wheelernival",         "name": "4Wheelernival"        },
       {"id": "ev6",              "name": "EV6"             },
       {"id": "ev9",              "name": "EV9"             }
     ]
   },
   {
     "id": "honda",
+    "category": "4Wheeler",
     "name"   : "Honda",
     "models" : [
       {"id": "city",      "name": "City"      },
@@ -212,6 +219,7 @@
   },
   {
     "id": "mg_motor",
+    "category": "4Wheeler",
     "name"   : "MG Motors",
     "models" : [
       {"id": "hector",      "name": "Hector"     },
@@ -227,6 +235,7 @@
   },
   {
     "id": "renault",
+    "category": "4Wheeler",
     "name"   : "Renault",
     "models" : [
       {"id": "kwid",   "name": "Kwid"  },
@@ -241,6 +250,7 @@
   },
   {
     "id": "nissan",
+    "category": "4Wheeler",
     "name"   : "Nissan",
     "models" : [
       {"id": "micra",        "name": "Micra"       },
@@ -257,6 +267,7 @@
   },
   {
     "id": "skoda",
+    "category": "4Wheeler",
     "name"   : "Skoda",
     "models" : [
       {"id": "octavia",    "name": "Octavia"   },
@@ -275,6 +286,7 @@
   },
   {
     "id": "volkswagen",
+    "category": "4Wheeler",
     "name"   : "Volkswagen",
     "models" : [
       {"id": "polo",            "name": "Polo"           },
@@ -292,6 +304,7 @@
   },
   {
     "id": "citroen",
+    "category": "4Wheeler",
     "name"   : "Citroen",
     "models" : [
       {"id": "c3",          "name": "C3"         },
@@ -303,6 +316,7 @@
   },
   {
     "id": "jeep",
+    "category": "4Wheeler",
     "name"   : "Jeep",
     "models" : [
       {"id": "compass",        "name": "Compass"       },
@@ -313,6 +327,7 @@
   },
   {
     "id": "force_motors",
+    "category": "4Wheeler",
     "name"   : "Force Motors",
     "models" : [
       {"id": "trax",         "name": "Trax"        },
@@ -326,6 +341,7 @@
   },
   {
     "id": "isuzu",
+    "category": "4Wheeler",
     "name"   : "Isuzu",
     "models" : [
       {"id": "d_max_single_cab", "name": "D-Max Single Cab"},
@@ -337,6 +353,7 @@
   },
   {
     "id": "byd",
+    "category": "4Wheeler",
     "name"   : "BYD",
     "models" : [
       {"id": "e6",        "name": "e6"       },
@@ -347,6 +364,7 @@
   },
   {
     "id": "vinfast",
+    "category": "4Wheeler",
     "name"   : "VinFast",
     "models" : [
       {"id": "vf_3", "name": "VF 3"},
@@ -359,6 +377,7 @@
   },
   {
     "id": "mercedes_benz",
+    "category": "4Wheeler",
     "name"   : "Mercedes Benz",
     "models" : [
       {"id": "a_class",           "name": "A-Class"          },
@@ -397,6 +416,7 @@
   },
   {
     "id": "bmw",
+    "category": "4Wheeler",
     "name"   : "BMW",
     "models" : [
       {"id": "1_series",                "name": "1 Series"               },
@@ -427,6 +447,7 @@
   },
   {
     "id": "audi",
+    "category": "4Wheeler",
     "name"   : "Audi",
     "models" : [
       {"id": "a3",                  "name": "A3"                 },
@@ -452,6 +473,7 @@
   },
   {
     "id": "volvo",
+    "category": "4Wheeler",
     "name"   : "Volvo",
     "models" : [
       {"id": "s60",           "name": "S60"          },
@@ -470,6 +492,7 @@
   },
   {
     "id": "lexus",
+    "category": "4Wheeler",
     "name"   : "Lexus",
     "models" : [
       {"id": "es",      "name": "ES"     },
@@ -483,6 +506,7 @@
   },
   {
     "id": "jaguar",
+    "category": "4Wheeler",
     "name"   : "Jaguar",
     "models" : [
       {"id": "xe",     "name": "XE"    },
@@ -496,6 +520,7 @@
   },
   {
     "id": "land_rover",
+    "category": "4Wheeler",
     "name"   : "Land Rover",
     "models" : [
       {"id": "defender_90",        "name": "Defender 90"       },
@@ -512,6 +537,7 @@
   },
   {
     "id": "mini",
+    "category": "4Wheeler",
     "name"   : "Mini",
     "models" : [
       {"id": "cooper_3_door",      "name": "Cooper 3 Door"     },
@@ -527,6 +553,7 @@
   },
   {
     "id": "porsche",
+    "category": "4Wheeler",
     "name"   : "Porsche",
     "models" : [
       {"id": "911",           "name": "911"          },
@@ -541,6 +568,7 @@
   },
   {
     "id": "hero",
+    "category": "2Wheeler",
     "name"   : "Hero",
     "models" : [
       {"id": "splendor",           "name": "Splendor"          },
@@ -585,6 +613,7 @@
   },
   {
     "id": "tvs",
+    "category": "2Wheeler",
     "name"   : "TVS",
     "models" : [
       {"id": "xl100",             "name": "XL100"            },
@@ -617,6 +646,7 @@
   },
   {
     "id": "bajaj",
+    "category": "2Wheeler",
     "name"   : "Bajaj",
     "models" : [
       {"id": "platina_100",     "name": "Platina 100"    },
@@ -649,6 +679,7 @@
   },
   {
     "id": "royal_enfield",
+    "category": "2Wheeler",
     "name"   : "Royal Enfield",
     "models" : [
       {"id": "bullet_350",         "name": "Bullet 350"        },
@@ -674,6 +705,7 @@
   },
   {
     "id": "yamaha",
+    "category": "2Wheeler",
     "name"   : "Yamaha",
     "models" : [
       {"id": "rx100",       "name": "RX100"      },
@@ -703,6 +735,7 @@
   },
   {
     "id": "suzuki",
+    "category": "2Wheeler",
     "name"   : "Duzuki",
     "models" : [
       {"id": "max100",            "name": "Max100"           },
@@ -734,6 +767,7 @@
   },
   {
     "id": "ktm",
+    "category": "2Wheeler",
     "name"   : "KTM",
     "models" : [
       {"id": "125_duke",        "name": "125 Duke"       },
@@ -752,6 +786,7 @@
   },
   {
     "id": "husqvarna",
+    "category": "2Wheeler",
     "name"   : "Husqvarna",
     "models" : [
       {"id": "svartpilen_250", "name": "Svartpilen 250"},
@@ -762,6 +797,7 @@
   },
   {
     "id": "kawasaki",
+    "category": "2Wheeler",
     "name"   : "Kawasaki",
     "models" : [
       {"id": "ninja_300",    "name": "Ninja 300"   },
@@ -790,6 +826,7 @@
   },
   {
     "id": "honda_motorcycle",
+    "category": "2Wheeler",
     "name"   : "Honda Motorcycle",
     "models" : [
       {"id": "shine_100",      "name": "Shine 100"     },
@@ -834,6 +871,7 @@
   },
   {
     "id": "ola_electric",
+    "category": "2Wheeler",
     "name"   : "Ola Electric",
     "models" : [
       {"id": "s1_air",       "name": "S1 Air"      },
@@ -848,6 +886,7 @@
   },
   {
     "id": "ather",
+    "category": "2Wheeler",
     "name"   : "Ather",
     "models" : [
       {"id": "450",      "name": "450"     },
@@ -860,6 +899,7 @@
   },
   {
     "id": "ampere",
+    "category": "2Wheeler",
     "name"   : "Ampere",
     "models" : [
       {"id": "reo",        "name": "Reo"       },
@@ -873,6 +913,7 @@
   },
   {
     "id": "vida",
+    "category": "2Wheeler",
     "name"   : "Vida",
     "models" : [
       {"id": "v1_plus", "name": "V1 Plus"},
@@ -884,6 +925,7 @@
   },
   {
     "id": "tork",
+    "category": "2Wheeler",
     "name"   : "Tork",
     "models" : [
       {"id": "kratos",   "name": "Kratos"  },
@@ -892,6 +934,7 @@
   },
   {
     "id": "revolt",
+    "category": "2Wheeler",
     "name"   : "Revolt",
     "models" : [
       {"id": "rv300",      "name": "RV300"    },
@@ -904,6 +947,7 @@
   },
   {
     "id": "ultraviolette",
+    "category": "2Wheeler",
     "name"   : "Ultraviolette",
     "models" : [
       {"id": "f77",             "name": "F77"            },
@@ -917,6 +961,7 @@
   },
   {
     "id": "simple_energy",
+    "category": "2Wheeler",
     "name"   : "Simple Eenergy",
     "models" : [
       {"id": "one",         "name": "One"        },
@@ -926,11 +971,13 @@
   },
   {
     "id": "river",
+    "category": "2Wheeler",
     "name"   : "River",
     "models" : [ {"id": "indie", "name": "Indie"} ]
   },
   {
     "id": "oben",
+    "category": "2Wheeler",
     "name"   : "Oben",
     "models" : [
       {"id": "rorr",    "name": "Rorr"   },
@@ -939,6 +986,7 @@
   },
   {
     "id": "okinawa",
+    "category": "2Wheeler",
     "name"   : "Okinawa",
     "models" : [
       {"id": "ridge",        "name": "Ridge"    },
@@ -954,6 +1002,7 @@
   },
   {
     "id": "pure_ev",
+    "category": "2Wheeler",
     "name"   : "Pure EV",
     "models" : [
       {"id": "ecodryft",    "name": "EcoDryft"   },
@@ -966,6 +1015,7 @@
   },
   {
     "id": "bounce",
+    "category": "2Wheeler",
     "name"   : "Bounce",
     "models" : [
       {"id": "infinity_e1",      "name": "Infinity E1" },
@@ -974,6 +1024,7 @@
   },
   {
     "id": "kinetic_green",
+    "category": "2Wheeler",
     "name"   : "Kinetic Green",
     "models" : [
       {"id": "zing",       "name": "Zing"      },
@@ -984,6 +1035,7 @@
   },
   {
     "id": "bgauss",
+    "category": "2Wheeler",
     "name"   : "Bgauss",
     "models" : [
       {"id": "a2",     "name": "A2"    },
@@ -994,8 +1046,9 @@
     ]
   },
   {
-    "id": "joy_ebike",
-    "name"   : "Joy Ebike",
+    "id": "joy_e2Wheeler",
+    "category": "2Wheeler",
+    "name"   : "Joy E2Wheeler",
     "models" : [
       {"id": "wolf",               "name": "Wolf"              },
       {"id": "gen_next_nanu",      "name": "Gen Next Nanu"     },
@@ -1008,6 +1061,7 @@
   },
   {
     "id": "komaki",
+    "category": "2Wheeler",
     "name"   : "Komaki",
     "models" : [
       {"id": "x_one",   "name": "X One"  },
@@ -1024,6 +1078,7 @@
   },
   {
     "id": "benling",
+    "category": "2Wheeler",
     "name"   : "Benling",
     "models" : [
       {"id": "kriti",  "name": "Kriti" },
@@ -1035,6 +1090,7 @@
   },
   {
     "id": "kabira_mobility",
+    "category": "2Wheeler",
     "name"   : "Kabira Mobility",
     "models" : [
       {"id": "km3000",           "name": "KM3000"          },
@@ -1062,6 +1118,7 @@
   },
   {
     "id": "vespa",
+    "category": "2Wheeler",
     "name"   : "Vespa",
     "models" : [
       {"id": "lx125",      "name": "LX 125"    },
@@ -1078,6 +1135,7 @@
   },
   {
     "id": "piaggio",
+    "category": "2Wheeler",
     "name"   : "Piaggio",
     "models" : [
       {"id": "ape_city",    "name": "Ape City"   },
@@ -1091,6 +1149,7 @@
   },
   {
     "id": "ducati",
+    "category": "2Wheeler",
     "name"   : "Ducati",
     "models" : [
       {"id": "monster",                 "name": "Monster"                },
@@ -1112,6 +1171,7 @@
   },
   {
     "id": "triumph",
+    "category": "2Wheeler",
     "name"   : "Triumph",
     "models" : [
       {"id": "speed_400",              "name": "Speed 400"             },
@@ -1136,6 +1196,7 @@
   },
   {
     "id": "bmw_motorrad",
+    "category": "2Wheeler",
     "name"   : "BMW Motorrad",
     "models" : [
       {"id": "g310r",   "name": "G 310 R"           },
@@ -1155,6 +1216,7 @@
   },
   {
     "id": "harley_davidson",
+    "category": "2Wheeler",
     "name"   : "Harley Davidson",
     "models" : [
       {"id": "x440",              "name": "X440"             },
@@ -1177,6 +1239,7 @@
   },
   {
     "id": "indian_motorcycle",
+    "category": "2Wheeler",
     "name"   : "Indian Motorcycle",
     "models" : [
       {"id": "scout_sixty",      "name": "Scout Sixty"     },
@@ -1193,6 +1256,7 @@
   },
   {
     "id": "cfmoto",
+    "category": "2Wheeler",
     "name"   : "CFMOTO",
     "models" : [
       {"id": "300nk", "name": "300NK"},
@@ -1204,6 +1268,7 @@
   },
   {
     "id": "moto_morini",
+    "category": "2Wheeler",
     "name"   : "Moto Morini",
     "models" : [
       {"id": "seiemmezzo_scr", "name": "Seiemmezzo SCR"},
@@ -1214,6 +1279,7 @@
   },
   {
     "id": "keeway",
+    "category": "2Wheeler",
     "name"   : "Keeway",
     "models" : [
       {"id": "k_light_250v", "name": "K-Light 250V"},
@@ -1228,6 +1294,7 @@
   },
   {
     "id": "benelli",
+    "category": "2Wheeler",
     "name"   : "Benelli",
     "models" : [
       {"id": "tnt25",        "name": "TNT 25"       },
@@ -1244,6 +1311,7 @@
   },
   {
     "id": "mv_agusta",
+    "category": "2Wheeler",
     "name"   : "MV Agusta",
     "models" : [
       {"id": "brutale_800",        "name": "Brutale 800"       },
@@ -1254,11 +1322,13 @@
   },
   {
     "id": "bsa",
+    "category": "2Wheeler",
     "name"   : "BSA",
     "models" : [ {"id": "gold_star_650", "name": "Gold Star 650"} ]
   },
   {
     "id": "zontes",
+    "category": "2Wheeler",
     "name"   : "Zontes",
     "models" : [
       {"id": "350r",     "name": "350R"    },
@@ -1270,6 +1340,7 @@
   },
   {
     "id": "qj_motor",
+    "category": "2Wheeler",
     "name"   : "QJ Motor",
     "models" : [
       {"id": "srk_400",    "name": "SRK 400"   },
@@ -1282,6 +1353,7 @@
   },
   {
     "id": "jawa",
+    "category": "2Wheeler",
     "name"   : "Jawa",
     "models" : [
       {"id": "jawa_42",        "name": "Jawa 42"   },
@@ -1294,6 +1366,7 @@
   },
   {
     "id": "yezdi",
+    "category": "2Wheeler",
     "name"   : "Yezdi",
     "models" : [
       {"id": "roadster",  "name": "Roadster" },
@@ -1303,6 +1376,7 @@
   },
   {
     "id": "moto_guzzi",
+    "category": "2Wheeler",
     "name"   : "Moto Guzzi",
     "models" : [
       {"id": "v7",            "name": "V7"           },
@@ -1313,6 +1387,7 @@
   },
   {
     "id": "lml",
+    "category": "2Wheeler",
     "name"   : "LML",
     "models" : [
       {"id": "nv",        "name": "NV"       },
@@ -1326,6 +1401,7 @@
   },
   {
     "id": "emotorad",
+    "category": "2Wheeler",
     "name"   : "Emotorad",
     "models" : [
       {"id": "trex_plus", "name": "T-Rex+"   },
@@ -1339,18 +1415,20 @@
   },
   {
     "id": "kawasaki_three_wheeler",
-    "name"   : "Kawasaki Three Wheeler",
+    "category": "3Wheeler",
+    "name"   : "Kawasaki 3Wheeler",
     "models" : [
-      {"id": "cargo_loader",   "name": "Cargo Loader"  },
+      {"id": "4Wheelergo_loader",   "name": "4Wheelergo Loader"  },
       {"id": "passenger_auto", "name": "Passenger Auto"}
     ]
   },
   {
     "id": "atul_auto",
+    "category": "3Wheeler",
     "name"   : "Atul Auto",
     "models" : [
       {"id": "gem",           "name": "Gem"          },
-      {"id": "gem_cargo",     "name": "Gem Cargo"    },
+      {"id": "gem_4Wheelergo",     "name": "Gem 4Wheelergo"    },
       {"id": "gem_passenger", "name": "Gem Passenger"},
       {"id": "elite_plus",    "name": "Elite Plus"   },
       {"id": "shakti",        "name": "Shakti"       },
@@ -1359,18 +1437,20 @@
   },
   {
     "id": "mahindra_last_mile_mobility",
+    "category": "3Wheeler",
     "name"   : "Mahindra Last Mile Mobilityr",
     "models" : [
       {"id": "treo",              "name": "Treo"             },
       {"id": "treo_plus",         "name": "Treo Plus"        },
       {"id": "treo_zor",          "name": "Treo Zor"         },
       {"id": "e_alfa_mini",       "name": "e-Alfa Mini"      },
-      {"id": "e_supro_cargo_van", "name": "e-Supro Cargo Van"},
+      {"id": "e_supro_4Wheelergo_van", "name": "e-Supro 4Wheelergo Van"},
       {"id": "e_supro_passenger", "name": "e-Supro Passenger"}
     ]
   },
   {
     "id": "ashok_leyland",
+    "category": "4PlusWheeler",
     "name"   : "Ashok Leyland",
     "models" : [
       {"id": "dost",         "name": "Dost"        },
@@ -1394,6 +1474,7 @@
   },
   {
     "id": "eicher",
+    "category": "4PlusWheeler",
     "name"   : "Eicher",
     "models" : [
       {"id": "pro_2049",    "name": "Pro 2049"   },
@@ -1409,6 +1490,7 @@
   },
   {
     "id": "bharatbenz",
+    "category": "4PlusWheeler",
     "name"   : "Bharat Benz",
     "models" : [
       {"id": "1015r",     "name": "1015R"    },
@@ -1425,6 +1507,7 @@
   },
   {
     "id": "sml_isuzu",
+    "category": "4PlusWheeler",
     "name"   : "SML Isuzu",
     "models" : [
       {"id": "samrat",        "name": "Samrat"       },
@@ -1438,6 +1521,7 @@
 
     {
       "id": "volvo_trucks_buses",
+      "category": "4PlusWheeler",
       "name"   : "Volvo Trucks Buses",
       "models" : [
         {"id": "fm",           "name": "FM"          },
@@ -1450,6 +1534,7 @@
     },
     {
       "id": "scania",
+      "category": "4PlusWheeler",
       "name"   : "Scania",
       "models" : [
         {"id": "p_series",  "name": "P-Series" },
@@ -1462,6 +1547,7 @@
     },
     {
       "id": "force_commercial",
+      "category": "4PlusWheeler",
       "name"   : "Force Commercial",
       "models" : [
         {"id": "traveller_school_bus",   "name": "Traveller School Bus"  },
@@ -1475,6 +1561,7 @@
     },
     {
       "id": "tata_commercial",
+      "category": "4PlusWheeler",
       "name"   : "Tata Commercial",
       "models" : [
         {"id": "ace",          "name": "Ace"         },
