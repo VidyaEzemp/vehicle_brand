@@ -1,8 +1,8 @@
 [
   {
     "id": "maruti_suzuki",
-    "name"   : "Maruti Suzuki",
     "category": "4Wheeler",
+    "name"   : "Maruti Suzuki",
     "models" : [
       {"id": "800",              "name": "800"             },
       {"id": "1000",             "name": "1000"            },
@@ -1101,6 +1101,7 @@
   },
   {
     "id": "aprilia",
+    "category": "2Wheeler",
     "name"   : "Aprilia",
     "models" : [
       {"id": "sr125",      "name": "SR 125"    },
