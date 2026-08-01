@@ -4,8 +4,8 @@
     "category": "4Wheeler",
     "name"   : "Maruti Suzuki",
     "models" : [
-      {"id": "800",              "name": "800"             },
-      {"id": "1000",             "name": "1000"            },
+      {"id": "800",              "name": "Maruti 800"      },
+      {"id": "1000",             "name": "Maruti 1000"     },
       {"id": "esteem",           "name": "Esteem"          },
       {"id": "zen",              "name": "Zen"             },
       {"id": "zen_classic",      "name": "Zen Classic"     },
@@ -42,7 +42,7 @@
       {"id": "omni",             "name": "Omni"            },
       {"id": "kizashi",          "name": "Kizashi"         },
       {"id": "e_vitara",         "name": "e Vitara"        },
-      {"id": "super_4Wheelerry",      "name": "Super 4Wheelerry"     }
+      {"id": "super_carry",      "name": "Super Carry"     }
     ]
   },
   {
